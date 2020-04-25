@@ -1,2 +1,2 @@
 # toptrumps
-Harry Potter Top Trumps Project for CodeFirstGirls
+Pokémon Top Trumps Project for CodeFirstGirls
